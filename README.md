@@ -5,7 +5,7 @@ With a strong passion for software development, cybersecurity, AI, and web devel
 Here's a bit about me:
 
  🌱 Skills
-- Languages: Python, C , C++  
+- Languages: Python, C , java 
 - Tools: Git
 - Interests: Software Development, Cybersecurity, AI, Web Development
 
