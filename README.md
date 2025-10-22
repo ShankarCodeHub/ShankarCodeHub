@@ -1,6 +1,6 @@
  Hi there, I'm Uma Shankar 👋
 
-I'm a second-year B.Tech student in Computer Science at Dev Bhoomi uttrakhand university.
+I'm a 3rd-year B.Tech student in Computer Science at Dev Bhoomi uttrakhand university.
 With a strong passion for software development, cybersecurity, AI, and web development, I'm on a journey to become a proficient software engineer. 
 Here's a bit about me:
 
